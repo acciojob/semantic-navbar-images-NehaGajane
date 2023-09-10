@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+nav {
+	display: flex;
+	margin-left: -50px;
+}
+ul {
+	list-style: none;
+}
+
+li {
+	float: left;
+	padding: 15px;
+}
+
+h1 {
+	text-align: center;
+}
+
+img {
+	padding: 5px;
+}
